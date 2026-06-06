@@ -13,9 +13,9 @@ export const STARTER_PROMPTS: StartScreenPrompt[] = [
   },
 ];
 
-export const PLACEHOLDER_INPUT = "OpenAI Agent School에 대해 물어보세요!";
+export const PLACEHOLDER_INPUT = "Gargoyle에 대해 물어보세요!";
 
-export const GREETING = "OpenAI Agent School의 에이전트입니다. 무엇을 도와드릴까요?";
+export const GREETING = "Gargoyle의 에이전트입니다. 무엇을 도와드릴까요?";
 
 export const getThemeConfig = (theme: ColorScheme): ThemeOption => ({
   color: {
